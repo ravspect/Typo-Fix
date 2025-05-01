@@ -1,0 +1,175 @@
+- id: 0x2F86
+  en: '{:unk13 E6 00 46 00}{:unk06 00}{:unk08 01 01 06}One ticket to the beach is 900 money.
+
+How much for four of us?'
+
+
+
+- id: 0x2F87
+  en: '{:unk13 78 00 64 00}{:unk06 00}{:unk08 01 01 06}3600 money.'
+
+
+
+- id: 0x2F89
+  en: '{:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 05}1200 money.
+A total of 4800 money.'
+
+
+
+- id: 0x2F8D
+  en: '{:unk13 D2 00 46 00}{:unk06 00}{:unk08 01 01 06}Too pricey. They´re,
+
+like, 2000 money apiece.'
+
+
+
+- id: 0x2F90
+  en: '{:unk13 C5 00 50 00}{:unk06 00}{:unk08 01 00 05}We need 4800 money altogether.
+
+But all we have is...'
+
+
+
+- id: 0x2F94
+  en: '{:unk13 18 01 46 00}{:unk06 00}{:unk08 01 00 05}That´s 1600 money!
+We need another 3200.'
+
+
+
+- id: 0x2FAC
+  en: 'Tada! 5000 money!'
+
+
+
+- id: 0x35B5
+  en: 'The pouch is from the King.{:delay 96 00}{:clear }When he gave us money for the train ride,
+
+he gave us the crystal too.'
+
+
+
+- id: 0x3EF3
+  en: 'Get close to grab orbs dropped by enemies
+
+when defeated.{:clear }Yellow orbs increase money, and
+
+green orbs restore health.'
+
+
+
+- id: 0x4403
+  en: 'You need money to buy items.{:clear }If you ever need some cash, you
+
+should check the job board here.'
+
+
+
+- id: 0x4435
+  en: 'Hey, Roxas! Reached your quota yet?
+
+Each of us needs to make 800 money!{:clear }The ocean´s waiting for us!
+
+I´m counting on you!'
+
+
+
+- id: 0x4438
+  en: '{:unk13 00 01 40 01}{:unk08 02 00 06}Continue working?
+
+{:chardelay 33 00}More money couldn´t hurt!
+
+{:chardelay 09 00}Mo money mo problems!'
+
+
+
+- id: 0x443A
+  en: '{:unk13 00 01 40 01}{:unk08 02 00 06}Continue working?
+
+{:chardelay 33 00}More money couldn´t hurt!
+
+{:chardelay 09 00}Mo money mo problems!'
+
+
+
+- id: 0x443C
+  en: '{:unk13 00 01 40 01}{:unk08 02 00 06}That´s plenty of money. Work more?
+
+{:chardelay 33 00}More money couldn´t hurt!
+
+{:chardelay 09 00}Mo money mo problems!'
+
+
+
+# Roxas Minigame Rewards
+- id: 0x4A1F
+  en: 'Received 100 money!!!'
+- id: 0x4A20
+  en: 'Received 60 money!!'
+- id: 0x4A21
+  en: 'Received 30 money!'
+- id: 0x4A22
+  en: 'Received 100 money!!!'
+- id: 0x4A23
+  en: 'Received 60 money!!'
+- id: 0x4A24
+  en: 'Received 30 money!'
+- id: 0x4A25
+  en: 'Received 100 money!!!'
+- id: 0x4A26
+  en: 'Received 60 money!!'
+- id: 0x4A27
+  en: 'Received 30 money!'
+- id: 0x4A28
+  en: 'Received 100 money!!!'
+- id: 0x4A29
+  en: 'Received 60 money!!'
+- id: 0x4A2A
+  en: 'Received 30 money!'
+- id: 0x4A2B
+  en: 'Received 100 money!!!'
+- id: 0x4A2C
+  en: 'Received 60 money!!'
+- id: 0x4A2D
+  en: 'Received 30 money!'
+- id: 0x4A2E
+  en: 'Received 100 money!!!'
+- id: 0x4A2F
+  en: 'Received 60 money!!'
+- id: 0x4A30
+  en: 'Received 30 money!'
+- id: 0x4A6C
+  en: 'Received 50 money!!!'
+- id: 0x4A6D
+  en: 'Received 30 money!!'
+- id: 0x4AEE
+  en: 'Received 10 money!'
+- id: 0x4A6F
+  en: 'Received 50 money!!!'
+- id: 0x4A70
+  en: 'Received 30 money!!'
+- id: 0x4A71
+  en: 'Received 10 money!'
+- id: 0x4A72
+  en: 'Received 50 money!!!'
+- id: 0x4A73
+  en: 'Received 30 money!!'
+- id: 0x4A74
+  en: 'Received 10 money!'
+- id: 0x4A75
+  en: 'Received 100 money!!!'
+- id: 0x4A76
+  en: 'Received 50 money!!'
+- id: 0x4A77
+  en: 'Received 30 money!'
+- id: 0x4A78
+  en: 'Received 50 money!!!'
+- id: 0x4A79
+  en: 'Received 30 money!!'
+- id: 0x4A7A
+  en: 'Received 10 money!'
+- id: 0x4A7B
+  en: 'Received 50 money!!!'
+- id: 0x4A7C
+  en: 'Received 30 money!!'
+- id: 0x4A7D
+  en: 'Received 10 money!'

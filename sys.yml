@@ -1,0 +1,76 @@
+# Menu
+- id: 0x37DB
+  en: 'Money'
+
+- id: 0x0AD6
+  en: '{:scale 12}{:color #FAF00080} Money'
+
+
+
+ # Olette Pouch
+- id: 0x3B09
+  en: 'Money Pouch'
+- id: 0x3B0A
+  en: 'A handmade pouch.
+
+It contains {:color #FFEC1980}5,000 hard-earned
+
+money{:reset}.'
+
+
+
+ # Mickey Pouch
+- id: 0x48FA
+  en: 'Money Pouch'
+
+- id: 0x48FB
+  en: 'A pouch from the King. 
+
+There´s {:color #FFEC1980}5,000 money{:reset} inside for 
+
+some reason.'
+
+
+
+# Cutscene
+- id: 0x1F4A
+  en: 'Roxas:
+I need to make some money...'
+
+
+- id: 0x444B
+  en: 'Roxas:
+We need to make some money
+before we can ride...'
+
+
+- id: 0x55F5
+  en: '{:color #FFEC1580}Complete the job quickly{:reset} to earn lots of money!'
+
+
+
+
+# Abilities
+- id: 0x3BF5
+  en: 'Increases drop rate of money, and HP
+
+and MP orbs. Equip the whole Party to
+
+further increase the drop rate.'
+
+
+- id: 0x3E3F
+  en: 'Wishes come true by increasing
+
+the drop rate of money, and HP
+
+and MP orbs.'
+
+
+
+- id: 0x4E2B
+  en: 'Increases the drop rate of drive orbs
+
+in place of munny.
+
+Equip more to increase the effect.'

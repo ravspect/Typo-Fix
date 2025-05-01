@@ -1,0 +1,127 @@
+title: Typo Fix
+originalAuthor: ravspect
+description: Fixes most instances of a major typo
+assets:
+# Menu Text
+- name: msg/jp/sys.bar
+  multi:
+  - name: msg/us/sys.bar
+  - name: msg/uk/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: sys.yml
+      language: en
+
+# Title Text
+- name: msg/jp/title.bar
+  multi:
+  - name: msg/us/title.bar
+  - name: msg/uk/title.bar
+  method: binarc
+  source:
+  - name: title
+    type: list
+    method: kh2msg
+    source:
+    - name: title.yml
+      language: en
+
+# TT Text (Roxas and Sora)
+- name: msg/jp/tt.bar
+  multi:
+  - name: msg/us/tt.bar
+  - name: msg/uk/tt.bar
+  method: binarc
+  source:
+  - name: tt
+    type: list
+    method: kh2msg
+    source:
+    - name: tt.yml
+      language: en
+
+# Journal Text (Roxas and Sora)
+- name: msg/jp/jm.bar
+  multi:
+  - name: msg/us/jm.bar
+  - name: msg/uk/jm.bar
+  method: binarc
+  source:
+  - name: jm
+    type: list
+    method: kh2msg
+    source:
+    - name: jm.yml
+      language: en
+
+# Menu Textures
+- name: remastered\menu\us\camp.2ld\US_camp_2ld0.png
+  platform: pc
+  method: copy
+  source:
+  - name: US_camp_2ld0.png
+
+- name: remastered\menu\us\camp.2ld\US_camp_2ld1.png
+  platform: pc
+  method: copy
+  source:
+  - name: US_camp_2ld1.png
+
+- name: remastered\menu\us\camp.2ld\US_camp_2ld2.png
+  platform: pc
+  method: copy
+  source:
+  - name: US_camp_2ld2.png
+
+- name: remastered\menu\us\camp.2ld\US_camp_2ld3.png
+  platform: pc
+  method: copy
+  source:
+  - name: US_camp_2ld3.png
+
+- name: remastered\menu\us\itemshop.2ld\US_itemshop_2ld1.png
+  platform: pc
+  method: copy
+  source:
+  - name: US_itemshop_2ld1.png
+
+- name: remastered\menu\us\save.2ld\US_save_2ld0.png
+  platform: pc
+  method: copy
+  source:
+  - name: US_save_2ld0.png
+
+- name: remastered\field2d\us\nm0field.2dd\US_nm0field_2dd0.png
+  platform: pc
+  method: copy
+  source:
+  - name: Field_2.png
+
+- name: remastered\field2d\us\al0field.2dd\US_al0field_2dd0.png
+  multi: 
+  - name: remastered\field2d\us\zz0field.2dd\US_zz0field_2dd0.png
+  - name: remastered\field2d\us\al0field.2dd\US_al0field_2dd0.png
+  - name: remastered\field2d\us\bb0field.2dd\US_bb0field_2dd0.png
+  - name: remastered\field2d\us\ca0field.2dd\US_ca0field_2dd0.png
+  - name: remastered\field2d\us\dc0field.2dd\US_dc0field_2dd0.png
+  - name: remastered\field2d\us\di0field.2dd\US_di0field_2dd0.png
+  - name: remastered\field2d\us\eh0field.2dd\US_eh0field_2dd0.png
+  - name: remastered\field2d\us\es0field.2dd\US_es0field_2dd0.png
+  - name: remastered\field2d\us\hb0field.2dd\US_hb0field_2dd0.png
+  - name: remastered\field2d\us\he0field.2dd\US_he0field_2dd0.png
+  - name: remastered\field2d\us\lk0field.2dd\US_lk0field_2dd0.png
+  - name: remastered\field2d\us\lm0field.2dd\US_lm0field_2dd0.png
+  - name: remastered\field2d\us\mu0field.2dd\US_mu0field_2dd0.png
+  - name: remastered\field2d\us\po0field.2dd\US_po0field_2dd0.png
+  - name: remastered\field2d\us\tr0field.2dd\US_tr0field_2dd0.png
+  - name: remastered\field2d\us\tt0field.2dd\US_tt0field_2dd0.png
+  - name: remastered\field2d\us\wi0field.2dd\US_wi0field_2dd0.png
+  - name: remastered\field2d\us\wm0field.2dd\US_wm0field_2dd0.png
+  platform: pc
+  method: copy
+  source:
+  - name: Field_1.png
